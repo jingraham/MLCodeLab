@@ -6,7 +6,7 @@ First, we'll walk through the linear classification in a [sentiment analysis tut
 Next, we'll apply what you learned, and work through a [news group excerise](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/news_groups_exercise.ipynb).
 We provide a sample solution in the [news group solution](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/sample_news_groups_solution.ipynb).
 
-Finally, we will walk through predicting continuous labels with a Linear regression tutorial https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
+Finally, we will walk through predicting continuous labels with a [Linear regression tutorial](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
 from the Python Data Science Handbook.
 
 ## Lab 2: Intro to DNN Packages: PyTorch
