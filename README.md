@@ -1,9 +1,13 @@
 # Intro to Machine Learning Labs
 
 ## Lab 1: Intro to ML Packages: SKLearn
-First, we'll walk through the [sentiment analysis tutorial](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/sentiment_analysis_tutorial.ipynb) together, and cover how to build and tune models on SKLearn. Next, you'll apply what you learned, and work through the [news group excerise](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/news_groups_exercise.ipynb) yourself.
+First, we'll walk through the linear classification in a [sentiment analysis tutorial](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/sentiment_analysis_tutorial.ipynb) and cover how to build and tune models with SKLearn. 
 
+Next, we'll apply what you learned, and work through a [news group excerise](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/news_groups_exercise.ipynb).
 We provide a sample solution in the [news group solution](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab1/sample_news_groups_solution.ipynb).
+
+Finally, we will walk through predicting continuous labels with a Linear regression tutorial https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
+from the Python Data Science Handbook.
 
 ## Lab 2: Intro to DNN Packages: PyTorch
 First, we'll walk through the [MNIST tutorial](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab2/mnist_tutorial.ipynb) together, and cover how to build and tune models on PyTorch. Next, you'll apply what you learned, and work through the [CIFAR excercise](https://colab.research.google.com/github/jingraham/MLCodeLab/blob/master/lab2/cifar_exercise.ipynb) yourself. 
